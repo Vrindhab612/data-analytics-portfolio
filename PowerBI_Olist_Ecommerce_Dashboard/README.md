@@ -35,19 +35,14 @@ customer behavior, product trends, and delivery performance.
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Sales Overview.png)
+![Sales Overview](Sales overview.png)
 
-### Customer Analysis
-![Customer Analysis](Customer Analysis.png)
+### Customer Overview
+![Customer Overview](Customer overview.png)
 
 ### Product Performance
-![Product Performance](Product Performance.png)
+![Product Performance](Product performance.png)
 
 ### Delivery Analysis
-![Delivery Analysis](Delivery Analysis.png)
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-
+![Delivery Analysis](Delivery analysis.png)
 
