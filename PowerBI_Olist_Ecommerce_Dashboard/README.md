@@ -32,6 +32,21 @@ customer behavior, product trends, and delivery performance.
 - Top product categories contributed the majority of revenue
 - Delivery performance improved over time
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](Sales Overview.png)
+
+### Customer Analysis
+![Customer Analysis](Customer Analysis.png)
+
+### Product Performance
+![Product Performance](Product Performance.png)
+
+### Delivery Analysis
+![Delivery Analysis](Delivery Analysis.png)
+
+
 ## Tools Used
 - Power BI
 - DAX
