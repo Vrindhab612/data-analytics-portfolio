@@ -35,14 +35,15 @@ customer behavior, product trends, and delivery performance.
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Sales overview.png)
+![Sales Overview](PowerBI_Olist_Ecommerce_Dashboard/Sales overview.png)
 
 ### Customer Overview
-![Customer Overview](Customer overview.png)
+![Customer Overview](PowerBI_Olist_Ecommerce_Dashboard/Customer overview.png)
 
 ### Product Performance
-![Product Performance](Product performance.png)
+![Product Performance](PowerBI_Olist_Ecommerce_Dashboard/Product performance.png)
 
 ### Delivery Analysis
-![Delivery Analysis](Delivery analysis.png)
+![Delivery Analysis](PowerBI_Olist_Ecommerce_Dashboard/Delivery analysis.png)
+lysis.png)
 
