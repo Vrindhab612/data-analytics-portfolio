@@ -45,9 +45,6 @@ customer behavior, product trends, and delivery performance.
 
 ### Delivery Analysis
 ![Delivery Analysis](Delivery Analysis.png)
-
-
-## Tools Used
 - Power BI
 - DAX
 - Power Query
